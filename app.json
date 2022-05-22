@@ -1,13 +1,13 @@
 {
-  "name": "CatUserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
+  "name": "AnimaginerBot",
+  "description": " Dibuat karena gabut. Jadi, ngefork aja wkwk ",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TgCatUB/catuserbot",
+  "repository": "https://github.com/pgm-bot/AnimaginerBot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -53,7 +53,7 @@
     },
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
+      "value": "Jakarta",
       "required": false
     },
     "EXTERNAL_REPO": {
